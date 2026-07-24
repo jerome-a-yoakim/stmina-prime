@@ -1,0 +1,2 @@
+"use client"; import { useCallback,useEffect,useState } from "react";
+export const useApi=<T>(url:string)=>{const [data,setData]=useState<T>();const [loading,setLoading]=useState(true);const [error,setError]=useState<string>();const reload=useCallback(async()=>{setLoading(true);try{const r=await fetch(url);if(!r.ok)throw new Error("Request failed");setData(await r.json());setError(undefined);}catch{setError("تعذر تحميل البيانات");}finally{setLoading(false);}},[url]);useEffect(()=>{void reload();},[reload]);return{data,loading,error,reload};};

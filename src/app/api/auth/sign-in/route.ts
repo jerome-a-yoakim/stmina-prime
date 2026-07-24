@@ -1,0 +1,2 @@
+import { NextResponse } from "next/server"; import { signInSchema } from "@/application/validation/auth-schema"; import { signIn } from "@/application/services/auth-service";
+export async function POST(request: Request) { const parsed=signInSchema.safeParse(await request.json()); if(!parsed.success)return NextResponse.json({error:"Invalid credentials format"},{status:400}); const {error}=await signIn(parsed.data.email,parsed.data.password); return error?NextResponse.json({error:"Invalid email or password"},{status:401}):NextResponse.json({ok:true}); }

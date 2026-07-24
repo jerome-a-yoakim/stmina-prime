@@ -1,0 +1,1 @@
+import { NextResponse } from "next/server"; import { listGroups } from "@/application/services/group-service"; export async function GET(){try{return NextResponse.json(await listGroups());}catch{return NextResponse.json({error:"Unable to load groups"},{status:500});}}

@@ -1,0 +1,1 @@
+export interface Member { id: string; groupId: string; fullName: string; phone: string | null; familyPhone: string | null; address: string | null; school: string | null; notes: string | null; active: boolean; joinedAt: string; }

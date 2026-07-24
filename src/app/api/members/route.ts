@@ -1,0 +1,3 @@
+import { NextResponse } from "next/server"; import { createMember,listMembers } from "@/application/services/member-service"; import { memberSchema } from "@/application/validation/member-schema";
+export async function GET(request:Request){try{return NextResponse.json(await listMembers(new URL(request.url).searchParams.get("groupId")??undefined));}catch{return NextResponse.json({error:"Unable to load members"},{status:500});}}
+export async function POST(request:Request){const parsed=memberSchema.safeParse(await request.json());if(!parsed.success)return NextResponse.json({error:"Invalid member data"},{status:400});try{return NextResponse.json(await createMember(parsed.data));}catch{return NextResponse.json({error:"Unable to create member"},{status:500});}}

@@ -1,0 +1,1 @@
+export interface AttendanceRecord { id?: string; memberId: string; serviceAttended: boolean; massAttended: boolean; massService: boolean; confession: boolean; phoneFollowUp: boolean; homeFollowUp: boolean; }

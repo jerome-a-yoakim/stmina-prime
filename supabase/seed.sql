@@ -1,0 +1,1 @@
+insert into public.activities (name,icon,color) values ('الألحان','🎵','#6366f1'),('قبطي','📜','#f59e0b'),('تعليمي','📚','#0ea5e9'),('بحثي','🔬','#10b981'),('إلكترونيات','💻','#8b5cf6'),('كرة قدم','⚽','#ef4444'),('شطرنج','♟️','#78716c') on conflict (name) do nothing;

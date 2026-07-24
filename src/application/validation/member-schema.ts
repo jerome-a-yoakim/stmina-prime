@@ -1,0 +1,2 @@
+import { z } from "zod";
+export const memberSchema = z.object({ groupId: z.string().uuid(), fullName: z.string().trim().min(2).max(120), phone: z.string().trim().max(30).nullable().optional(), familyPhone: z.string().trim().max(30).nullable().optional(), address: z.string().trim().max(300).nullable().optional(), school: z.string().trim().max(120).nullable().optional(), notes: z.string().trim().max(1000).nullable().optional() });
