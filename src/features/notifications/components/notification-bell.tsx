@@ -39,14 +39,58 @@ export function NotificationBell({ userId, canViewAll = false }: { userId: strin
   }, [viewAll]);
 
   useEffect(() => { void load(); }, [load]);
+  const loadRef = useRef(load);
   useEffect(() => {
+    loadRef.current = load;
+  }, [load]);
+
+  useEffect(() => {
+    if (!userId) return;
+
     const supabase = createBrowserSupabaseClient();
-    const channel = supabase.channel(`notifications:${userId}`)
-      .on("postgres_changes", { event: "*", schema: "public", table: "notifications",
-        filter: `recipient_user_id=eq.${userId}` }, () => { void load(); })
-      .subscribe();
-    return () => { void supabase.removeChannel(channel); };
-  }, [load, userId]);
+    const channelTopic = `notifications:${userId}`;
+
+    // Clean up any existing channel with the same topic to prevent "already subscribed" errors
+    const existingChannels = supabase.getChannels();
+    for (const existingChannel of existingChannels) {
+      if (
+        existingChannel.topic === `realtime:${channelTopic}` ||
+        existingChannel.topic === channelTopic
+      ) {
+        void supabase.removeChannel(existingChannel);
+      }
+    }
+
+    let isMounted = true;
+
+    // Supabase official pattern: .channel().on().subscribe()
+    const channel = supabase
+      .channel(channelTopic)
+      .on(
+        "postgres_changes",
+        {
+          event: "*",
+          schema: "public",
+          table: "notifications",
+          filter: `recipient_user_id=eq.${userId}`,
+        },
+        () => {
+          if (isMounted) {
+            void loadRef.current();
+          }
+        }
+      )
+      .subscribe((status, err) => {
+        if (status === "CHANNEL_ERROR" || status === "TIMED_OUT") {
+          console.warn(`[Supabase Realtime] Channel ${channelTopic} status: ${status}`, err);
+        }
+      });
+
+    return () => {
+      isMounted = false;
+      void supabase.removeChannel(channel);
+    };
+  }, [userId]);
   useEffect(() => {
     const close = (event: MouseEvent) => { if (!root.current?.contains(event.target as Node)) setOpen(false); };
     document.addEventListener("mousedown", close);
