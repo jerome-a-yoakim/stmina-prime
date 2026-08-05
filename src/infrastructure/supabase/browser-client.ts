@@ -28,6 +28,17 @@ if (!supabaseKey) {
   );
 }
 
-export const createBrowserSupabaseClient = () =>
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  createBrowserClient<any>(supabaseUrl, supabaseKey);
+let browserClient: ReturnType<typeof createBrowserClient<any>> | undefined;
+
+export const createBrowserSupabaseClient = () => {
+  if (typeof window === "undefined") {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    return createBrowserClient<any>(supabaseUrl, supabaseKey);
+  }
+  if (!browserClient) {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    browserClient = createBrowserClient<any>(supabaseUrl, supabaseKey);
+  }
+  return browserClient;
+};
+
