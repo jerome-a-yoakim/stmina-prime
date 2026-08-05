@@ -1,0 +1,4010 @@
+{
+  "ts": "2026-07-10T09:26:45.060Z",
+  "groups": [
+    {
+      "id": 1,
+      "name": "الصف السادس - أسرة الأنبا بولا",
+      "active": true,
+      "order": 0,
+      "mainServant": "",
+      "assistantServants": [],
+      "servantContact": ""
+    },
+    {
+      "id": 2,
+      "name": "الصف السادس - أسرة الأنبا أنطون",
+      "active": true,
+      "order": 1,
+      "mainServant": "",
+      "assistantServants": [],
+      "servantContact": ""
+    },
+    {
+      "id": 3,
+      "name": "الصف الخامس - أسرة العذراء مريم",
+      "active": true,
+      "order": 2,
+      "mainServant": "",
+      "assistantServants": [],
+      "servantContact": ""
+    },
+    {
+      "id": 4,
+      "name": "الصف الخامس - أسرة  أبي سيفين",
+      "active": true,
+      "order": 3,
+      "mainServant": "",
+      "assistantServants": [],
+      "servantContact": ""
+    },
+    {
+      "id": 5,
+      "name": "الصف الرابع - أسرة مارمينا",
+      "active": true,
+      "order": 4,
+      "mainServant": "",
+      "assistantServants": [],
+      "servantContact": ""
+    },
+    {
+      "id": 6,
+      "name": "الصف الرابع - أسرة الأنبا موسي",
+      "active": true,
+      "order": 5,
+      "mainServant": "",
+      "assistantServants": [],
+      "servantContact": ""
+    },
+    {
+      "id": 7,
+      "name": "الصف الثالث - أسرة ارشيدياكون ح",
+      "active": true,
+      "order": 6,
+      "mainServant": "",
+      "assistantServants": [],
+      "servantContact": ""
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "كاراس مينا فايق نجيب",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "يسطس فادى",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "name": "رومانى روبيرت رومانى",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "يوسف تامر مجدى",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "name": "سامى كريم سامى",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "name": "شنودة سمير فاروق",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "name": "توماس وليم",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "name": "شنوتى سامى مكرم",
+      "groupId": 1,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "name": "كيرلس هانى ناجى",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "name": "فارس ماجد لمعى",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "name": "مايكل رومانى عبدالمسيح",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "name": "مينا ايمن موسى",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "name": "فيلوباتير حليم نظيم عوض",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "name": "يوسف بطرس حلمى",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 15,
+      "name": "كاراس وجيه نصر",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "name": "بيشوى ملاك",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "name": "يوسف أسامه سعد",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "name": "ابانوب مرقس حلمى",
+      "groupId": 2,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "name": "مينا جيد ذكي",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "name": "امير رامي سامي",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "name": "روجيه روماني سمعان",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "name": "توماس ايمن منصور",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "name": "فيلوباتير ماجد رمزي",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 24,
+      "name": "مانويل هاني نصيري",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 25,
+      "name": "كاراس منير فريد",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "name": "بيشوي ادوار وهب الله",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 27,
+      "name": "شنودة ايهاب سمير",
+      "groupId": 3,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "name": "سامي أشرف جيد جاد",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "name": "كاراس ناجي حبيب حنا غطاس",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 30,
+      "name": "بيشوي نادر هابيل شاكر",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 31,
+      "name": "مينا ناشد سامي ناشد",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 32,
+      "name": "كاراس رامي سامي موسي",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 33,
+      "name": "بيشوي ميشيل عبد النور يوسف",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 34,
+      "name": "كاراس موسي أسعد موسي",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 35,
+      "name": "هرمينا سامح البير",
+      "groupId": 4,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 36,
+      "name": "يوساب سامح جاب الله",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 38,
+      "name": "ابانوب ماجد عجيب",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 39,
+      "name": "يوسف خليل وديع",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 40,
+      "name": "روميل روماني سمعان",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 41,
+      "name": "كرم ايمن كرم",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 42,
+      "name": "كاراس مينا صبحي",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 43,
+      "name": "توماس جوزيف عادل",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 44,
+      "name": "يوسف بيتر فتحي",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 45,
+      "name": "بافلي إبرام عاطف",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 46,
+      "name": "جون عادل ناجي",
+      "groupId": 5,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 47,
+      "name": "توماس جاب الله برسوم",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 49,
+      "name": "كاراس ميلاد صبح عطا",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 50,
+      "name": "كاراس رامز سعد",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 52,
+      "name": "كيرلس نبيل سليمان",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 53,
+      "name": "توني أشرف جيد",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 54,
+      "name": "توماس ابراهيم عبد المسيح",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 55,
+      "name": "يوسف عماد زكي",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 56,
+      "name": "سيف ابراهيم شوقي",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 57,
+      "name": "يوسف ايمن منصور",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 58,
+      "name": "فادي اشرف نصري",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 59,
+      "name": "فارس اشرف نصري",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 60,
+      "name": "يوسف اميل بنياس",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 61,
+      "name": "كاراس سعد خلف",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 62,
+      "name": "ابرام فيلبس ابراهيم",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 63,
+      "name": "ايساف عادل عبده",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 64,
+      "name": "فادي اشرف مسعد",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 65,
+      "name": "نوفير سامي باسيليوس",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 66,
+      "name": "جيروم مينا رزق",
+      "groupId": 7,
+      "active": true,
+      "joinedAt": "2026-06-05T06:39:07.151Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    },
+    {
+      "id": 1780651533673,
+      "name": "فارس هاني",
+      "groupId": 6,
+      "active": true,
+      "joinedAt": "2026-06-05T09:25:33.673Z",
+      "phone": "",
+      "familyPhone": "",
+      "address": "",
+      "school": "",
+      "brotherOfLord": false,
+      "activities": [],
+      "notes": ""
+    }
+  ],
+  "subs": [
+    {
+      "id": 1780650473424,
+      "date": "٥‏/٦‏/٢٠٢٦",
+      "dateISO": "2026-06-05",
+      "records": [
+        {
+          "memberId": 1,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 2,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 3,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 4,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 5,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 6,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 7,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 8,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 9,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 10,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 11,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 12,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 13,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 14,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 15,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 16,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 17,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 18,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 19,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 20,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 21,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 22,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 23,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 24,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 25,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 26,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 27,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 28,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 29,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 30,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 31,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 32,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 33,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 34,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 35,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 36,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 38,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 39,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 40,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 41,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 42,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 43,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 44,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 45,
+          "حضور الخدمة": false,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 46,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 47,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 49,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 50,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 52,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 53,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 54,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 55,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 56,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 57,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 58,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 59,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 60,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 61,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 62,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 63,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 64,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 65,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 66,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 1780651533673,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        }
+      ],
+      "submittedBy": 1,
+      "groupIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 1781254077973,
+      "date": "١٢‏/٦‏/٢٠٢٦",
+      "dateISO": "2026-06-12",
+      "records": [
+        {
+          "memberId": 1,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 2,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 3,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 4,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 5,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 6,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 7,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 8,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 9,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 10,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 11,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 12,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 13,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 14,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 15,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 16,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 17,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 18,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 19,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 20,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": true
+        },
+        {
+          "memberId": 21,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 22,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 23,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 24,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 25,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 26,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 27,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 28,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 29,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 30,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 31,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 32,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 33,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 34,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 35,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 36,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 38,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 39,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 40,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 41,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 42,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 43,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 44,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 45,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 46,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 47,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 49,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 50,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 52,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 53,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 54,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 55,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 56,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 57,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 58,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 59,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 60,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 61,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 62,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 63,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 64,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 65,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 66,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 1780651533673,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        }
+      ],
+      "submittedBy": 1,
+      "groupIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 1781859785199,
+      "date": "١٩‏/٦‏/٢٠٢٦",
+      "dateISO": "2026-06-19",
+      "records": [
+        {
+          "memberId": 1,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 2,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 3,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 4,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 5,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 6,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 7,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 8,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 9,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 10,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 11,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 12,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 13,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 14,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 15,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 16,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 17,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 18,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 19,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 20,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 21,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 22,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 23,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 24,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 25,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": true
+        },
+        {
+          "memberId": 26,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": true
+        },
+        {
+          "memberId": 27,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 28,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 29,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 30,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 31,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 32,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 33,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 34,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 35,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 36,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 38,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 39,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 40,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 41,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 42,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 43,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 44,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 45,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 46,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 47,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 49,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 50,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 52,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 53,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 54,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 55,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 56,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 57,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 58,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 59,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 60,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 61,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 62,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 63,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 64,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 65,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 66,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 1780651533673,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        }
+      ],
+      "submittedBy": 1,
+      "groupIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 1782464604771,
+      "date": "٢٦‏/٦‏/٢٠٢٦",
+      "dateISO": "2026-06-26",
+      "records": [
+        {
+          "memberId": 1,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 2,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 3,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 4,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 5,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 6,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 7,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 8,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 9,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 10,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 11,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 12,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 13,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 14,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 15,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 16,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 17,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 18,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 19,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 20,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 21,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 22,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 23,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 24,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 25,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 26,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 27,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 28,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 29,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 30,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 31,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 32,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 33,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 34,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 35,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 36,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 38,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 39,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 40,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 41,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 42,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 43,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 44,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 45,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 46,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 47,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 49,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 50,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 52,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 53,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 54,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 55,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 56,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 57,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 58,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 59,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 60,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 61,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 62,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 63,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 64,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 65,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 66,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 1780651533673,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        }
+      ],
+      "submittedBy": 1,
+      "groupIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 1783675391671,
+      "date": "١٠‏/٧‏/٢٠٢٦",
+      "dateISO": "2026-07-10",
+      "records": [
+        {
+          "memberId": 1,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 2,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 3,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 4,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 5,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 6,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 7,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 8,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 9,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 10,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 11,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 12,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 13,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 14,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 15,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 16,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 17,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 18,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 19,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 20,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 21,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 22,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 23,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 24,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 25,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 26,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 27,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 28,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 29,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 30,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 31,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 32,
+          "حضور الخدمة": false,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 33,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 34,
+          "حضور الخدمة": false,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 35,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 36,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 38,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 39,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 40,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 41,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 42,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 43,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 44,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 45,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 46,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 47,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 49,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 50,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": true,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 52,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 53,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 54,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 55,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 56,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 57,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 58,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 59,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 60,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 61,
+          "حضور الخدمة": true,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 62,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 63,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 64,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 65,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 66,
+          "حضور الخدمة": true,
+          "حضور القداس": true,
+          "خدمة القداس": true,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        },
+        {
+          "memberId": 1780651533673,
+          "حضور الخدمة": false,
+          "حضور القداس": false,
+          "خدمة القداس": false,
+          "الأعتراف": false,
+          "الأفتقاد التيليفوني": false,
+          "الأفتقاد المنزلي": false
+        }
+      ],
+      "submittedBy": 1,
+      "groupIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "name": "المدير العام",
+      "assignedGroups": []
+    },
+    {
+      "id": 2,
+      "username": "servant1",
+      "password": "servant123",
+      "role": "servant",
+      "name": "الخادم الأول",
+      "assignedGroups": [
+        "الصف السادس - أسرة الأنبا بولا",
+        "الصف السادس - أسرة الأنبا أنطون"
+      ]
+    },
+    {
+      "id": 3,
+      "username": "servant2",
+      "password": "servant456",
+      "role": "servant",
+      "name": "الخادم الثاني",
+      "assignedGroups": [
+        "الصف الخامس - أسرة العذراء مريم",
+        "الصف الخامس - أسرة  أبي سيفين"
+      ]
+    }
+  ],
+  "archive": [],
+  "activities": [
+    {
+      "id": 1,
+      "name": "الحان",
+      "icon": "🎵",
+      "color": "#6366f1"
+    },
+    {
+      "id": 2,
+      "name": "قبطي",
+      "icon": "📜",
+      "color": "#f59e0b"
+    },
+    {
+      "id": 3,
+      "name": "تعليمي",
+      "icon": "📚",
+      "color": "#0ea5e9"
+    },
+    {
+      "id": 4,
+      "name": "بحثي",
+      "icon": "🔬",
+      "color": "#10b981"
+    },
+    {
+      "id": 5,
+      "name": "إلكترونيات",
+      "icon": "💻",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": 6,
+      "name": "كرة قدم",
+      "icon": "⚽",
+      "color": "#ef4444"
+    },
+    {
+      "id": 7,
+      "name": "شطرنج",
+      "icon": "♟️",
+      "color": "#78716c"
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-import { createServerSupabaseClient } from "@/infrastructure/supabase/server-client";
-import type { Member } from "@/domain/types/member";
-interface MemberRow { id:string; group_id:string; full_name:string; phone:string|null; family_phone:string|null; address:string|null; school:string|null; notes:string|null; active:boolean; joined_at:string; }
-const map=(r: MemberRow): Member=>({id:r.id,groupId:r.group_id,fullName:r.full_name,phone:r.phone,familyPhone:r.family_phone,address:r.address,school:r.school,notes:r.notes,active:r.active,joinedAt:r.joined_at});
-export const listMembers=async (groupId?:string):Promise<Member[]>=>{const c=await createServerSupabaseClient();let q=c.from("members").select("*").eq("active",true).order("full_name");if(groupId)q=q.eq("group_id",groupId);const {data,error}=await q;if(error)throw error;return data.map(map);};
-export interface CreateMemberInput { groupId:string; fullName:string; phone?:string|null; familyPhone?:string|null; address?:string|null; school?:string|null; notes?:string|null; }
-export const createMember=async (input:CreateMemberInput)=>{const c=await createServerSupabaseClient();const {data,error}=await c.from("members").insert({group_id:input.groupId,full_name:input.fullName,phone:input.phone??null,family_phone:input.familyPhone??null,address:input.address??null,school:input.school??null,notes:input.notes??null}).select().single();if(error)throw error;return map(data);};

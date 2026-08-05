@@ -1,0 +1,51 @@
+
+> st-mina-prime-services@1.0.0 dev
+> next dev -p 3000
+
+   ▲ Next.js 15.5.21
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.110:3000
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+ ✓ Ready in 17.8s
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 1558ms (171 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 10.7s (533 modules)
+ GET / 307 in 17076ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 6.1s (548 modules)
+ GET /login 200 in 8219ms
+ ○ Compiling /api/auth/sign-in ...
+ ✓ Compiled /api/auth/sign-in in 2s (639 modules)
+ POST /api/auth/sign-in 401 in 4115ms
+ POST /api/auth/sign-in 401 in 75ms
+ POST /api/auth/sign-in 401 in 64ms
+ POST /api/auth/sign-in 401 in 83ms
+ POST /api/auth/sign-in 401 in 132ms
+ POST /api/auth/sign-in 401 in 94ms
+ POST /api/auth/sign-in 401 in 84ms
+ POST /api/auth/sign-in 401 in 193ms
+ GET /login 200 in 1003ms
+ POST /api/auth/sign-in 401 in 95ms
+ POST /api/auth/sign-in 401 in 80ms
+ POST /api/auth/sign-in 401 in 87ms
+ GET / 307 in 2050ms
+ GET /login 200 in 1248ms
+ ○ Compiling /_error ...
+ POST /api/auth/sign-in 401 in 4101ms
+ ✓ Compiled /_error in 24.1s (976 modules)
+ ✓ Compiled in 14.8s (372 modules)
+ GET /login 500 in 67181ms
+ POST /api/auth/sign-in 500 in 30164ms
+ GET /login 500 in 25948ms
+ GET /login 500 in 26567ms
+ GET /login 500 in 817ms
+ GET /login 500 in 2375ms
+ GET /login 500 in 683ms
+ ○ Compiling /api/groups ...
+ ✓ Compiled /api/groups in 2.2s (958 modules)
+ GET /api/groups 500 in 10470ms
+ ✓ Compiled in 4.9s (511 modules)
+[?25h

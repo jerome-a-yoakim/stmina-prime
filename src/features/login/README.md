@@ -6,7 +6,7 @@ Renders the Supabase email/password sign-in entry point.
 
 ## Components
 
-Uses the shared `LoginForm` presentation component.
+Uses the feature-owned `components/login-form.tsx` component.
 
 ## Dependencies
 

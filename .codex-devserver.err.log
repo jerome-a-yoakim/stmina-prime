@@ -1,0 +1,173 @@
+AuthRetryableFetchError: fetch failed {
+  __isAuthError: true,
+  status: 0,
+  code: undefined
+}
+AuthRetryableFetchError: fetch failed {
+  __isAuthError: true,
+  status: 0,
+  code: undefined
+}
+AuthRetryableFetchError: fetch failed {
+  __isAuthError: true,
+  status: 0,
+  code: undefined
+}
+AuthRetryableFetchError: fetch failed {
+  __isAuthError: true,
+  status: 0,
+  code: undefined
+}
+ ⨯ Error: Could not find the module "C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3561124777'
+}
+ ⨯ Error: Could not find the module "C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '71090118'
+}
+ ⨯ Error: Could not find the module "C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '71090118'
+}
+ ⨯ Error: Could not find the module "C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '71090118'
+}
+ ⨯ Error: Could not find the module "C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3561124777'
+}
+ ⨯ Error: Could not find the module "C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3561124777'
+}
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  digest: '1306910827'
+}
+ ⨯ Error: Could not find the module "C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\next-devtools\userspace\app\segment-explorer-node.js#SegmentViewNode" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+    at stringify (<anonymous>) {
+  digest: '3561124777'
+}
+[TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function]
+ ⨯ [TypeError: __webpack_modules__[moduleId] is not a function] {
+  page: '/login'
+}
+ ⨯ Error: Cannot find module './331.js'
+Require stack:
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\webpack-runtime.js
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\pages\_document.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\require.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\load-components.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\utils.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\options.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\index.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\next.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\api\auth\sign-in\route.js:1:9322)
+    at Object.<anonymous> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\api\auth\sign-in\route.js:1:9384) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/api/auth/sign-in'
+}
+ ⨯ Error: Cannot find module './331.js'
+Require stack:
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\webpack-runtime.js
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\pages\_document.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\require.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\load-components.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\utils.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\options.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\index.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\next.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12288)
+    at Object.<anonymous> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12338) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/login'
+}
+ ⨯ Error: Cannot find module './331.js'
+Require stack:
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\webpack-runtime.js
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\pages\_document.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\require.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\load-components.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\utils.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\options.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\index.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\next.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12288)
+    at Object.<anonymous> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12338) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/login'
+}
+ ⨯ Error: Cannot find module './331.js'
+Require stack:
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\webpack-runtime.js
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\pages\_document.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\require.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\load-components.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\utils.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\options.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\index.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\next.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12288)
+    at Object.<anonymous> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12338) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/login'
+}
+ ⨯ Error: Cannot find module './331.js'
+Require stack:
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\webpack-runtime.js
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\pages\_document.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\require.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\load-components.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\utils.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\options.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\index.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\next.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12288)
+    at Object.<anonymous> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12338) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/login'
+}
+ ⨯ Error: Cannot find module './331.js'
+Require stack:
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\webpack-runtime.js
+- C:\Users\jepor\Downloads\5edma pr\base\.next\server\pages\_document.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\require.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\load-components.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\utils.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\options.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\swc\index.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\config.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\next.js
+- C:\Users\jepor\Downloads\5edma pr\base\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12288)
+    at Object.<anonymous> (C:\Users\jepor\Downloads\5edma pr\base\.next\server\app\login\page.js:2:12338) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/login'
+}
